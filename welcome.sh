@@ -1,2 +1,2 @@
 echo "Welcome to bash Scripting..."
-echo -e "\e[31Hello in Red Color\e[0m"
+echo -e "\e[31mHello in Red Color\e[0m"
