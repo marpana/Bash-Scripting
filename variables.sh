@@ -11,5 +11,6 @@ A=300
 echo A = ${A}
 
 a=800
+export a
 
 
