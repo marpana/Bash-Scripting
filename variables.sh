@@ -9,3 +9,6 @@ echo good morning, welcome!, today date is ${DATE}
 echo USER = ${USER}
 A=300
 echo A = ${A}
+
+echo
+
