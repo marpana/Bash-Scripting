@@ -7,4 +7,5 @@ echo good morning, welcome!, today date is ${DATE}
 
 # veriable from shell command line
 echo USER = ${USER}
+A=300
 echo A = ${A}
