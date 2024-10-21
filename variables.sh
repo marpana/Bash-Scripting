@@ -10,5 +10,6 @@ echo USER = ${USER}
 A=300
 echo A = ${A}
 
-echo x
+a=800
+
 
