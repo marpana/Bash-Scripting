@@ -9,9 +9,6 @@ echo good morning, welcome!, today date is ${DATE}
 echo USER = ${USER}
 echo A = ${A}
 
-a=800
-export a
-b=300
-export b
+echo B = ${B}
 
 
