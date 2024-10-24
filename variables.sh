@@ -12,5 +12,7 @@ echo A = ${A}
 
 a=800
 export a
+b=300
+export b
 
 
