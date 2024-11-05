@@ -6,5 +6,5 @@ if [ ! -z "${age}" -a "${age}" -lt 18 ]; then
   elif [ ! -z "${age}" -a "${age}" -gt 60 ]; then
     echo you are senior
     else
-      echo you are minor
+      echo you are major
       fi
